@@ -140,6 +140,3 @@ ml-churn-medical-cost-prediction
 
 Advanced Diploma in Data Science  
 Toronto, Canada
-
-
-
